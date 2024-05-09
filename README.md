@@ -5,7 +5,7 @@ I have 6 years of Java programming under my belt but I wish to learn more. I sti
 Can't collaborate on anything at the moment (Too Much College work, so little time..). 
 I might progress onto a masters degree at some point, maybe even a phd.
 
-My current focus of interest is 3d modelling and video game design, its been two years since my first and only game and it was a good first effort.
+My current area of interest is 3d modelling and video game design, its been three years since my first and only game and it was a good first effort.
 
 If you want to contact me for whatever reason,
 I can be found at:
