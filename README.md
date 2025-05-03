@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkMacGowan
 At the moment I'm in my 4th year of studying Computers at NCI.
 
-I have 6 years of Java programming under my belt but I wish to learn more. I still consider myself a bit of a noob at coding.
+I have 7 years of Java programming under my belt but I wish to learn more. I still consider myself a bit of a noob at coding.
 Can't collaborate on anything at the moment (Too Much College work, so little time..). 
 I might progress onto a masters degree at some point, maybe even a phd.
 
